@@ -359,10 +359,4 @@ Each run creates a new `report_HH-MM-SS.html` — old reports are never overwrit
 
 ---
 
-## 🔗 Related Repository
-
-- 🍽️ **Foodie App REST API Testing** → [github.com/your-username/foodie-app-api-testing](https://github.com/your-username/foodie-app-api-testing)
-
----
-
 > **IIHT | WIPRO · Software Testing Capstone · February 2026**
